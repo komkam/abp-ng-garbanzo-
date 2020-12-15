@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version:751
+! Title:GE1_75-thaiads
+! Last modified:15.12.2020
+! Expires: 7 days (update frequency)
+! Homepage:
+!
+||jyyoi.com/blog/wp-content/uploads/2012/11/by.png
